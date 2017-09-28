@@ -16,8 +16,15 @@ namespace Caelum.Leilao
 
         public void Propoe(Lance lance)
         {
-            if (Lances.Count == 0 || !ultimoLanceDado().
-                    Usuario.Equals(lance.Usuario))
+            int total = 0;
+            foreach (Lance l in Lances)
+            {
+                if (l.Usuario.Equals(lance.Usuario)) total++;
+            }
+
+            if (Lances.Count == 0 ||
+                (!ultimoLanceDado().Usuario.Equals(lance.Usuario)
+                    && total < 5))
             {
                 Lances.Add(lance);
             }
