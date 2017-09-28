@@ -77,10 +77,11 @@ namespace Caelum.Leilao.Tests
         public void DeveEntenderLeilaoComDoisLances()
         {
             Usuario joao = new Usuario("João");
+            Usuario maria = new Usuario("Maria");
             Leilao leilao = new Leilao("Playstation 3");
 
             leilao.Propoe(new Lance(joao, 200.0));
-            leilao.Propoe(new Lance(joao, 100.0));
+            leilao.Propoe(new Lance(maria, 100.0));
 
             Avaliador leiloeiro = new Avaliador();
             leiloeiro.Avalia(leilao);  
