@@ -1,0 +1,12 @@
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csprojResolveAssemblyReference.cache
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.pdb
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.dll
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.pdb
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\nunit.framework.dll
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.pdb
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\nunit.framework.dll
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.dll
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.pdb
+C:\Users\dbollella\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csprojResolveAssemblyReference.cache
